@@ -4,6 +4,8 @@ PyHamilton Complex Movement
 To run:
 `py robot_method.py`
 
+This method overwrites the current version of move_plate in PyHamilton, in order to enable complex movement parameters. This capability will be migrated to PyHamilton in the future.
+
 Complex movement example:
 ```python
 def iswap_move_wide_grip(ham_int, source, destination):
