@@ -6,7 +6,7 @@ To run:
 
 This method overwrites the current version of move_plate in PyHamilton, in order to enable complex movement parameters. This capability will be migrated to PyHamilton in the future.
 
-The new parameters for move_plate are dictionaries that describe the complex movement, `ComplexGetDixt` and `CmplxPlaceDict, with the following fields: `retractDist`, `liftUpHeight`, and `labwareOrientation`.
+The new parameters for move_plate are dictionaries that describe the complex movement, `ComplexGetDixt` and `CmplxPlaceDict`, with the following fields: `retractDist`, `liftUpHeight`, and `labwareOrientation`.
 
 Complex movement example:
 ```python
