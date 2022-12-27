@@ -1,5 +1,5 @@
-# Complex Movement
-PyHamilton Complex Movement
+#PyHamilton Complex Movement
+Requires PyHamilton=>1.491.4
 
 To run:
 `py robot_method.py`
