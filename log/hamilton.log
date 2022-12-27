@@ -1,0 +1,54 @@
+[2022-12-27 16:35:38,188] pyhamilton.interface INFO starting a Hamilton interface
+[2022-12-27 16:35:38,188] pyhamilton.interface INFO started the oem application for simulation
+[2022-12-27 16:35:38,188] pyhamilton.interface INFO started the server thread
+[2022-12-27 16:35:47,273] pyhamilton.interface INFO sending end run command to simulator
+[2022-12-27 16:35:48,788] pyhamilton.interface ERROR HamiltonTimeoutError('Timed out after 1.5 sec while waiting for response id 0x0')
+[2022-12-27 16:35:48,788] pyhamilton.interface INFO disconnected from server
+[2022-12-27 16:35:48,897] pyhamilton.interface INFO server did not exit yet, sending dummy request to exit its loop
+[2022-12-27 16:35:48,902] pyhamilton.interface INFO dummy get request sent to server
+[2022-12-27 16:35:48,906] pyhamilton.interface INFO server thread exited
+[2022-12-27 16:41:12,199] pyhamilton.interface INFO starting a Hamilton interface
+[2022-12-27 16:41:12,199] pyhamilton.interface INFO started the oem application for simulation
+[2022-12-27 16:41:12,199] pyhamilton.interface INFO started the server thread
+[2022-12-27 16:41:21,281] pyhamilton.interface INFO sending end run command to simulator
+[2022-12-27 16:41:22,784] pyhamilton.interface ERROR HamiltonTimeoutError('Timed out after 1.5 sec while waiting for response id 0x0')
+[2022-12-27 16:41:22,784] pyhamilton.interface INFO disconnected from server
+[2022-12-27 16:41:22,893] pyhamilton.interface INFO server did not exit yet, sending dummy request to exit its loop
+[2022-12-27 16:41:22,898] pyhamilton.interface INFO dummy get request sent to server
+[2022-12-27 16:41:22,899] pyhamilton.interface INFO server thread exited
+[2022-12-27 16:43:39,961] pyhamilton.interface INFO starting a Hamilton interface
+[2022-12-27 16:43:39,961] pyhamilton.interface INFO started the oem application for simulation
+[2022-12-27 16:43:39,961] pyhamilton.interface INFO started the server thread
+[2022-12-27 16:43:57,125] pyhamilton.interface INFO sending end run command to simulator
+[2022-12-27 16:43:58,639] pyhamilton.interface ERROR HamiltonTimeoutError('Timed out after 1.5 sec while waiting for response id 0x0')
+[2022-12-27 16:43:58,640] pyhamilton.interface INFO disconnected from server
+[2022-12-27 16:43:58,746] pyhamilton.interface INFO server did not exit yet, sending dummy request to exit its loop
+[2022-12-27 16:43:58,750] pyhamilton.interface INFO dummy get request sent to server
+[2022-12-27 16:43:58,750] pyhamilton.interface INFO server thread exited
+[2022-12-27 16:54:36,981] pyhamilton.interface INFO starting a Hamilton interface
+[2022-12-27 16:54:36,981] pyhamilton.interface INFO started the oem application for simulation
+[2022-12-27 16:54:36,981] pyhamilton.interface INFO started the server thread
+[2022-12-27 16:54:56,180] pyhamilton.interface INFO sending end run command to simulator
+[2022-12-27 16:54:57,686] pyhamilton.interface ERROR HamiltonTimeoutError('Timed out after 1.5 sec while waiting for response id 0x0')
+[2022-12-27 16:54:57,686] pyhamilton.interface INFO disconnected from server
+[2022-12-27 16:54:57,795] pyhamilton.interface INFO server did not exit yet, sending dummy request to exit its loop
+[2022-12-27 16:54:57,800] pyhamilton.interface INFO dummy get request sent to server
+[2022-12-27 16:54:57,800] pyhamilton.interface INFO server thread exited
+[2022-12-27 17:03:06,764] pyhamilton.interface INFO starting a Hamilton interface
+[2022-12-27 17:03:06,764] pyhamilton.interface INFO started the oem application for simulation
+[2022-12-27 17:03:06,764] pyhamilton.interface INFO started the server thread
+[2022-12-27 17:03:19,891] pyhamilton.interface INFO sending end run command to simulator
+[2022-12-27 17:03:21,397] pyhamilton.interface ERROR HamiltonTimeoutError('Timed out after 1.5 sec while waiting for response id 0x0')
+[2022-12-27 17:03:21,397] pyhamilton.interface INFO disconnected from server
+[2022-12-27 17:03:21,506] pyhamilton.interface INFO server did not exit yet, sending dummy request to exit its loop
+[2022-12-27 17:03:21,510] pyhamilton.interface INFO dummy get request sent to server
+[2022-12-27 17:03:21,510] pyhamilton.interface INFO server thread exited
+[2022-12-27 17:11:29,405] pyhamilton.interface INFO starting a Hamilton interface
+[2022-12-27 17:11:29,405] pyhamilton.interface INFO started the oem application for simulation
+[2022-12-27 17:11:29,406] pyhamilton.interface INFO started the server thread
+[2022-12-27 17:11:40,524] pyhamilton.interface INFO sending end run command to simulator
+[2022-12-27 17:11:42,028] pyhamilton.interface ERROR HamiltonTimeoutError('Timed out after 1.5 sec while waiting for response id 0x0')
+[2022-12-27 17:11:42,029] pyhamilton.interface INFO disconnected from server
+[2022-12-27 17:11:42,136] pyhamilton.interface INFO server did not exit yet, sending dummy request to exit its loop
+[2022-12-27 17:11:42,140] pyhamilton.interface INFO dummy get request sent to server
+[2022-12-27 17:11:42,140] pyhamilton.interface INFO server thread exited
